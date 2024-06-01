@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://samhk90.github.io/Md.Samee/](https://samhk90.github.io/Md.Samee/)
+- 👨‍💻 All of my projects are available at [https://samhk90.github.io/Md.Samee/](mdsamee.me)
 
 - 💬 Ask me about **Django**
 
