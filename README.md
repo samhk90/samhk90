@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samhk90" alt="samhk90" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **TAE-ERP System**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://samhk90.github.io/Md.Samee/](mdsamee.me)
+- 👨‍💻 All of my projects are available at [https://mdsamee.me](mdsamee.me)
 
 - 💬 Ask me about **Django**
 
